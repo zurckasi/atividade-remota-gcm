@@ -1,9 +1,9 @@
-/*arquivo que comtém a função principal do software*/
+/*arquivo que contém a função principal do software*/
 
-//importação de bibliotecas
+//importação de bibliotecas da linguagem C
 #include<stdio.h>
 #include "biblioteca.h"
-//função main que recebe os dados de entrada e imprime o resultado
+//função principal que processa a interação com o usuário
 void main(){
 	int num1, num2, num3;
 	printf("Numero 1: ");
